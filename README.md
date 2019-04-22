@@ -5,6 +5,7 @@ para di naka rely sa cdn, pwedeng walang internet
 
 version 4.2.1
 
+COMMIT 1:
 downloaded:
 galing sa getbootstrap.com:
 bootstrap.css
@@ -19,5 +20,8 @@ popper.min.js
 
 date:
 2019-04-22
+
+
+
 
 
